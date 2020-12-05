@@ -1,4 +1,4 @@
-# Contagion AngelScript Plugins
+# Contagion AngelScript General Plugin Usage
 
 # PLUGIN INSTALLATION
 
