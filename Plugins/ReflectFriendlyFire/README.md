@@ -30,4 +30,4 @@ damage to the attacker.
 [ + Added Feature | - Removed Feature | * Changed or Fixed Feature ]
 
 * 05.12.2020: Version 1.0
-  + Initial Release
+  + +Initial Release
