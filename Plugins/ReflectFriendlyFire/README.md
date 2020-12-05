@@ -16,7 +16,7 @@ damage to the attacker.
   * ```as_rff_dmgfactor_victim        : How much dmg (%) the victim receives. 0.0 = 0 %; 1.0 = 100 %```
 
 * Messages:
-  * ```as_rff_attacker_msg            : Message which is displayed to the attacker on firendly fire.```
+  * ```as_rff_attacker_msg            : Message which is displayed to the attacker on friendly fire.```
     - You can edit this message in the Config file, for the victim name and the damage done you can use the
     placeholders {strVictim} and {strDamage}. For colored text parts use the placeholders listed here:
     http://contagion-game.com/api/#cat=Utilities&page=Chat&function=PrintToChat
