@@ -4,7 +4,7 @@
 ## DESCRIPTION:
 
 This plugin will allow you to display a custom text based on the server difficulty behind the hostname.
-Each difficulty has a ConVar which can be changed in this configfile or at runtime on your server/client console.
+Each difficulty has a ConVar which can be changed in the configfile or at runtime on your server/client console.
 
 ---
 ## CONFIGURATION:
