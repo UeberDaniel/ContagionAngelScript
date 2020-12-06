@@ -1,7 +1,7 @@
 const string strInfoName = "ShowDiffInHostname";
 const string strInfoAuthor = "UeberDaniel";
-const string strInfoVersion = "1.0";
-const string strFileName = strInfoName + "_" + strInfoVersion;
+const string strInfoVersion = "1.1";
+const string strFileName = strInfoName;
 const string strConVarName = "as_sdih_";
 const array<string> strScriptDescription = {
     "---------------------------------> DO NOT DELETE THIS! YOU MAY NEED IT IN THE FUTURE! <---------------------------------",
@@ -30,6 +30,9 @@ const array<string> strScriptDescription = {
     "|                                                                                                                      |",
     "| 05.12.2020: Version 1.0                                                                                              |",
     "| + Initial Release                                                                                                    |",
+    "|                                                                                                                      |",
+    "| 06.12.2020: Version 1.1                                                                                              |",
+    "| - Removed version number in configfile name                                                                          |",
     "|======================================================================================================================|",
     "| Visit https://ohne-reue.de/Scripting/Contagion-AngelScript/Plugins for more Information.                             |",
     "| Created 2020 by https://steamcommunity.com/id/UeberDaniel for https://ohne-reue.de Contagion servers.                |",
