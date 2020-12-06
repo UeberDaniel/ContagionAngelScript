@@ -22,3 +22,6 @@ Each difficulty has a ConVar which can be changed in the configfile or at runtim
 
 * 05.12.2020: Version 1.0
   + +Initial Release
+  
+* 06.12.2020: Version 1.1
+  + -Removed version number in configfile name.
