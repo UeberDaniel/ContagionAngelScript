@@ -31,3 +31,6 @@ damage to the attacker.
 
 * 05.12.2020: Version 1.0
   + +Initial Release
+  
+* 06.12.2020: Version 1.1
+  + -Removed version number in configfile name.
