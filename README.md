@@ -63,4 +63,4 @@ Usage for the listen server or client console:
 **Note: There is no need for a plugin creator to give you a config file, use ConVars or let the plugin react on a change of a ConVar at server runtime.
 This is not a standard and is up to the plugin creator whether he offers this or not.**
 
-If you want to go deeper: http://contagion-game.com/api/.
+If you want to go deeper: http://contagion-game.com/api/. Use [api.wuffesan.com](https://api.wuffesan.com/contagion/) if the first link is not working correctly.
